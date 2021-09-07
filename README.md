@@ -2,7 +2,7 @@
 
 ### Hi, I'm Brian Sopok 👋
 
-I'm a Front End Engineer currently residing in New York City since April 2018. I hold a Bachelor Degree in Computer Science and have professionally worked at Yieldstreet and Elm Street Technology (Formally RLS2000).
+I'm a Front End Engineer working professionally since 2016. I hold a Bachelor Degree in Computer Science and have professionally worked at Yieldstreet and Elm Street Technology (Formally RLS2000).
 
 Other companies that I have worked at part-time or by internship include Intriaci Studios, Apple Inc, United States Army Combat Capabilities Development Command Armaments Center (Formally United States Army Armament Research Development and Engineering Center), and Coldwell Banker Prime Properties.
 
